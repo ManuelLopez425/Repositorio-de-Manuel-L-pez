@@ -10,7 +10,7 @@ def limpiar_pantalla():
 
 # El entorno (la palabra a evolucionar)
 # Regla: solo mayusculas y espacios.
-objetivo = "ROBOTICA COGNITIVA"
+objetivo = "JUAN MANUEL"
 letras_posibles = string.ascii_uppercase + " "
 
 # El azar inicial (ADN basura)
